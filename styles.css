@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 250px;
+    text-align: center;
+    padding: 15px;
+}
+
+button {
+    background-color: #4285F4;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#decline-event {
+    background-color: #e41818b9;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #357ae8;
+}
